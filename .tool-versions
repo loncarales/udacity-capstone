@@ -1,0 +1,4 @@
+terraform 0.14.8
+python 3.9.2
+kubectl 1.18.9
+eksctl 0.41.0
